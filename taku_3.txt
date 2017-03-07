@@ -10,3 +10,4 @@ branch
 takuyaのブランチを作成しました。
 
 先日のgitの使い方の復習。(branch:practice2より)
+→更新
