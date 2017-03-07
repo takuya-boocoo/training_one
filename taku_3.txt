@@ -1,0 +1,13 @@
+test takuya
+
+I study git.
+murano add
+
+今日github等を勉強しました。
+
+branch
+
+takuyaのブランチを作成しました。
+
+先日のgitの使い方の復習。(branch:practice2より)
+→更新
